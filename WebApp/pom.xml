@@ -3,10 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Maven-Demo2</groupId>
   <artifactId>WebApp</artifactId>
-  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>WebApp Maven Webapp</name>
+  <name>WebApp Maven Webapp</name>111111111111
   <url>http://maven.apache.org</url>
+  
+  // adding one comment to check github connection
+  
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -19,4 +22,5 @@
     <finalName>WebApp</finalName>
   </build>
  
+ <packaging>war</packaging>
 </project>
